@@ -8,5 +8,5 @@ created: 1634424038252
 
 a website that grows over time
 
-- [[rdfs.subClassOf]] [[Website]]
+- [[subClassOf]] [[Website]]
 - [[related]] [[t.km.digital-gardening]]
