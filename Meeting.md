@@ -7,4 +7,4 @@ created: 1635369518318
 ---
 
 - [[instanceOf]] [[Class]]
-- [[subClassOf]] [[Encounter]]
+- [[p.subClassOf]] [[Encounter]]

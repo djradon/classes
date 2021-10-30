@@ -8,5 +8,5 @@ created: 1634424038252
 
 a website that grows over time
 
-- [[subClassOf]] [[Website]]
-- [[isRelated]] [[t.km.digital-gardening]]
+- [[p.subClassOf]] [[Website]]
+- [[p.isRelated]] [[t.km.digital-gardening]]
