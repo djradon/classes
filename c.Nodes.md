@@ -1,10 +1,14 @@
 ---
 id: wxW0JLQiYB3er2JL9XgAR
 title: Nodes
-desc: ''
-updated: 1634432578561
+desc: 'in GraphDown, everything is a node'
+updated: 1635675884354
 created: 1634432380897
 ---
+
+- [[p.isRelated]] [[GraphDown]] [[RDF|soln.rdf]]
+
+#candidate-for-removal
 
 ## Complexities
 

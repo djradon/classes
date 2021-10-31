@@ -8,4 +8,4 @@ created: 1634932253364
 
 Active words are useful for task management
 
-- [[p.subClassOf]] [[Predicate]]
+- [[p.subClassOf]] [[c.Predicate]]

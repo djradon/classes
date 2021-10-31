@@ -8,5 +8,5 @@ created: 1633272094469
 
 the class of classes
 
-- [[instanceOf]] [[Class]] 
+- [[p.instanceOf]] [[Class]] 
 - [[p.equivalentClass]] rdfs:Class 

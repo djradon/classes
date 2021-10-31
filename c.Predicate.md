@@ -7,6 +7,6 @@ created: 1633272038905
 ---
 
 
-- [[instanceOf]] [[Class]] 
+- [[p.instanceOf]] [[c.Class]] 
 - [[p.equivalentClass]] [rdf:Property](http://www.w3.org/1999/02/22-rdf-syntax-ns#Property)
-- [[p.subClassOf]] [[Resource]]
+- [[p.subClassOf]] [[c.Resource]]

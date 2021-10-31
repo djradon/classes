@@ -6,5 +6,5 @@ updated: 1635369575709
 created: 1635369518318
 ---
 
-- [[instanceOf]] [[Class]]
-- [[p.subClassOf]] [[Encounter]]
+- [[p.instanceOf]] [[c.Class]]
+- [[p.subClassOf]] [[c.Encounter]]
