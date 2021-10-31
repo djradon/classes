@@ -6,7 +6,7 @@ updated: 1635675884354
 created: 1634432380897
 ---
 
-- [[p.isRelated]] [[GraphDown]] [[RDF|soln.rdf]]
+- [[p.isRelated]] [[proj.GraphDown]] [[RDF|soln.rdf]]
 
 #candidate-for-removal
 
