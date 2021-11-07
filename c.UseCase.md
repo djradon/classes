@@ -1,7 +1,7 @@
 ---
 id: DzQ0jlI7oSG0km2aeSfq3
 title: UseCase
-desc: 'situations where a piece of software may be useful'
+desc: situations where a piece of software may be useful
 updated: 1635765880241
 created: 1635662811224
 ---
