@@ -2,7 +2,7 @@
 id: Htmeh9VNdT0qgIeYvIV5T
 title: User Story (Class)
 desc: ''
-updated: 1636183478024
+updated: 1637664272674
 created: 1634651528838
 ---
 
@@ -11,6 +11,7 @@ Captures aspects of an actual or imagined [[c.Feature]], [[c.Capability]], [[c.S
 
 - [[p.instanceOf]] [[c.Class]]
 - [[p.hasTheme]] [[t.pdm]] 
+- [[p.correspondsTo]] [[User Stories|t.pdm#user-stories]]
 
 ## User Story Templates
 
