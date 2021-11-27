@@ -1,9 +1,10 @@
 ---
 id: c2M9k27Fhs5gEZQYkhGu3
-title: FamilialPredicate
+title: Familial Predicates
 desc: for expressing relatives
-updated: 1637596010117
+updated: 1637968848009
 created: 1637595973548
 ---
 
+- [[p.similarTo]] [[c.Pred.Lineage]]
 

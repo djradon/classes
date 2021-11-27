@@ -1,6 +1,6 @@
 ---
 id: lkQfSmIIq37gpWqA7n0G8
-title: Predicate
+title: Pred
 desc: ''
 updated: 1634435716552
 created: 1633272038905
