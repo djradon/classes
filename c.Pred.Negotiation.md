@@ -1,8 +1,8 @@
 ---
 id: lqy6LXF7UhWeTC4Zmhqym
-title: Negotiation
+title: Negotiation Predicates
 desc: ''
-updated: 1636467466638
+updated: 1638042656104
 created: 1636467209192
 ---
 

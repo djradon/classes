@@ -1,8 +1,8 @@
 ---
 id: lkQfSmIIq37gpWqA7n0G8
-title: Pred
+title: Predicate (Class)
 desc: ''
-updated: 1634435716552
+updated: 1638042628326
 created: 1633272038905
 ---
 
