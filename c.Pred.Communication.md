@@ -2,14 +2,15 @@
 id: mWnk7QOJjZVFq8Rv1ynlS
 title: Communication Predicates
 desc: ''
-updated: 1637969054377
+updated: 1638117014083
 created: 1637665938098
 ---
 
+- [[p.similarTo]] [[c.Pred.Discursive]]
 
 ## [[p.hasRelatedResource]]
 
--[Request Interaction Protocol](http://www.fipa.org/specs/fipa00026/SC00026H.html)
+- [Request Interaction Protocol](http://www.fipa.org/specs/fipa00026/SC00026H.html)
   - should have a failure-inform 
 - [Brokering Interaction Protocol](http://www.fipa.org/specs/fipa00033/XC00033G.html)
 

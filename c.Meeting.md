@@ -1,10 +1,9 @@
 ---
 id: YeC4kgxGOqCQgT3f2iiWw
 title: Meeting
-desc: ''
-updated: 1635369575709
+desc: 'a pre-arranged, usually consenual encounter'
+updated: 1638052101969
 created: 1635369518318
 ---
 
-- [[p.instanceOf]] [[c.Class]]
 - [[p.subClassOf]] [[c.Encounter]]
