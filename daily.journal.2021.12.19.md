@@ -1,8 +1,8 @@
 ---
 id: EV1AsUrmLAQQioRJY6hsu
 title: '2021-12-19'
-desc: 'Battle with the Vampire Spawn in Vallaki'
-updated: 1639969247907
+desc: Battle with the Vampire Spawn in Vallaki
+updated: 1639969905788
 created: 1639945758899
 traitIds:
   - journalNote
@@ -13,7 +13,7 @@ traitIds:
 - @rudolph: I've been developing this persona of @ricktavio for three years.
 - @tserro: If we help you, how will you be able to track us appropriately?
 - @rudolph: There's a [[tower|rl.baratock-tower]] on [[rl.lake-baratock]]. I might be there. But if our destinies are aligned, then we will meet.
-- @rudolph: I've been travelling around trying to gather as much knowledge as I can. I have a lot of knowledge around killing vampires. @straad combines the foul beasts of this land, and they are his spies. He can turn to mist. After destroying him, he must return to his coffin. They cannot enter a residence without invitation. They can be burned by running water. 
+- @rudolph: I've been travelling around trying to gather as much knowledge as I can. I have a lot of knowledge around killing vampires. @straad controls the foul beasts of this land, and they are his spies. He can turn to mist. After destroying him, he must return to his coffin. They cannot enter a residence without invitation. They can be burned by running water. 
 - they talk some more
 - @rudolph: Let me get this straight, you traded away two sunlight-producing items?
 - [[g.sil-zin-tserro]] [[p.lookAt]] @gunaar angrily
@@ -45,8 +45,8 @@ traitIds:
 - @sil [[p.picksUp]] @bjorn and flies up through the trap door
 - the room is empty except for a desk an lantern, leads to a big room full of old junk. A path leads through the junk into a door with a skull carved into it and a sign that says "all is not well"
 - [[g.shadows]] hear two male voices
-- [[user.sil]] tries the doorknob
-  - [[user.sil]] triggers a [[ddt.glyph-of-warding]]
+- @sil tries the doorknob
+  - @sil triggers a [[ddt.glyph-of-warding]]
 
 ### attic battle with grim men
 
