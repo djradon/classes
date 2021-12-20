@@ -2,7 +2,7 @@
 id: EV1AsUrmLAQQioRJY6hsu
 title: '2021-12-19'
 desc: Battle with the Vampire Spawn in Vallaki
-updated: 1639969905788
+updated: 1639971107788
 created: 1639945758899
 traitIds:
   - journalNote
@@ -27,7 +27,7 @@ traitIds:
     - @rudolph: a dark and corrupted place. creatures of the woods worship corrupted demi-gods, and they've turned the forest into something monstrous
   - [[rl.white-mountains]] 
     - @rudolph: when I entered [[rl.morovia]], I entered through the [[rl.svalich-woods]]. As I was passing off [[rl.luna-lake]] on a barge, I noticed a huge bridge made of white stone with mountains rising on either side. [[g.gypsies]] mentioned golden guardians above watching over a tower.  
-- @rudolph: Vampires are always at their strongest in the lairs. It will be unlikely for him to leave. I am prepared to never return from his castle. Perhaps I shall survive, but this is the greatest vampire... I have no plans beyond this, and nothing to return to.
+- @rudolph: Vampires are always at their strongest in their lairs. It will be unlikely for him to leave. I am prepared to never return from his castle. Perhaps I shall survive, but this is the greatest vampire... I have no plans beyond this, and nothing to return to.
 - [[g.shadows]] decide to proceed to Fellholt first, then on to [[rl.krezk]] and the [[rl.abbey-near-krezk]]
 - @rudolph: glory and strength until we meet again. 
 - [[g.shadows]] [[p.attemptTo]] [[p.proceedTo]] [[rl.vallaki-inn]]
@@ -60,3 +60,4 @@ traitIds:
 - @sil [[p.telepaths]] "somebody pick up my body"
 - a [[ddc.vampire-spawn]] [[p.claws]] @sil, mortally
   - @sil [[p.falls]] from the ceiling to the ground
+- ![](/assets/images/2021-12-19-19-31-26.png)
