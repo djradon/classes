@@ -4,7 +4,8 @@ title: Solution Predicates
 desc: >-
   the class of predicates that can be applied to products, product management,
   components, use cases, plans, etc.
-updated: 1637968763065
+updated: 1641363320459
 created: 1637425803845
 ---
+
 
