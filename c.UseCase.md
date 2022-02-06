@@ -6,6 +6,7 @@ updated: 1635765880241
 created: 1635662811224
 ---
 
+
 - " a way to capture the high-level objectives of a" solution
 - we need to consider two concepts, and how they relate:
 

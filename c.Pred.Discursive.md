@@ -6,6 +6,7 @@ updated: 1638056264283
 created: 1637405791821
 ---
 
+
 - [[p.hasSense]]
   - predicates relating to written or spoken debate or investigation
     - [[p.overlapsWith]] [[c.Pred.Communication]]

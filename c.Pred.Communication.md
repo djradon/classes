@@ -6,6 +6,7 @@ updated: 1638117014083
 created: 1637665938098
 ---
 
+
 - [[p.similarTo]] [[c.Pred.Discursive]]
 
 ## [[p.hasRelatedResource]]

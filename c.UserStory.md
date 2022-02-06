@@ -6,6 +6,7 @@ updated: 1638053293505
 created: 1634651528838
 ---
 
+
 Captures aspects of an actual or imagined [[c.Feature]], [[c.Capability]], [[c.Solution]], [[c.Problem]] or [[c.Opportunity]] from a user's perspective.
 
 - [[p.instanceOf]] [[c.Class]]

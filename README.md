@@ -5,6 +5,7 @@ desc: ''
 updated: 1639973251730
 created: 1636317542156
 ---
+
 # classes
 
 semantic markdown can be used for classifying things
