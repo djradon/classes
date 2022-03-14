@@ -2,12 +2,12 @@
 id: bCbHNvGI5XGE4s9mD5AMJ
 title: Log
 desc: ''
-updated: 1641366981834
+updated: 1644849149597
 created: 1641366235825
 ---
 
 
- 2022-01-04
+### 2022-01-04
   - 
 
 Hi Thomas
@@ -50,3 +50,12 @@ Expands to:
 
 Regards
 Anthony
+
+### 2022-02-14
+
+- There are three different things that in my view are constantly getting muddled in RDF-star examples. If a triple is in the subject position it's common to see annotations that, in my view, actually have different subjects, but you wouldn't know it from the way they're all grouped together. The subject could be:
+
+The relationship/event.
+The abstract description of the relationship/event.
+Specific occurrences of the abstract description of the relationship/event.
+  - [[p.hasAuthor]] @anthony-moretti
