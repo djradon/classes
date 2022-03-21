@@ -2,12 +2,12 @@
 id: lkQfSmIIq37gpWqA7n0G8
 title: Predicate (Class)
 desc: ''
-updated: 1638042628326
+updated: 1647826980310
 created: 1633272038905
 ---
 
 
 
-- [[p.instanceOf]] [[c.Class]] 
+- [[p.subClassOf]] [[c.Class]] 
 - [[p.equivalentClass]] [rdf:Property](http://www.w3.org/1999/02/22-rdf-syntax-ns#Property)
-- [[p.subClassOf]] [[c.Resource]]
+

@@ -2,12 +2,13 @@
 id: I0PJcBJ9C0WZ0m5rZ20oY
 title: Class
 desc: ''
-updated: 1633272289985
+updated: 1647827736366
 created: 1633272094469
 ---
 
 
-the class of classes
+the class of classes; 
 
-- [[p.instanceOf]] [[Class]] 
+- [[p.subClassOf]] [[c.Class]]  ^03d6g645hfzr
+  - arguably you can't be a subclass of yourself, but for clarity, subClassOf class works better in general for classes
 - [[p.equivalentClass]] rdfs:Class 
