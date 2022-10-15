@@ -7,6 +7,7 @@ created: 1635747580777
 ---
 
 
+
 - [[p.similarTo]] [[c.Capability]]
 
 ## [[p.hasDefinition]]

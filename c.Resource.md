@@ -7,6 +7,7 @@ created: 1633589594499
 ---
 
 
+
 comparable to RDF's universal class
 - ? but maybe only for addressable stuff
 

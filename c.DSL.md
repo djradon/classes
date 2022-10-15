@@ -7,5 +7,6 @@ created: 1638051487811
 ---
 
 
+
 - [[p.subClassOf]] [[c.Solution]] 
 - [[p.instanceOf]] [[t.km.kos]]

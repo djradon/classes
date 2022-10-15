@@ -7,4 +7,5 @@ created: 1634684866207
 ---
 
 
+
 A business, community, educational institution, government agency, NGO, or gang.

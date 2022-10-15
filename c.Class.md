@@ -7,6 +7,7 @@ created: 1633272094469
 ---
 
 
+
 the class of classes; 
 
 - [[p.subClassOf]] [[c.Class]]  ^03d6g645hfzr

@@ -7,5 +7,6 @@ created: 1634418684790
 ---
 
 
+
 - [[p.alsoKnownAs]] business
 - [[p.subClassOf]] [[c.Organization]]

@@ -7,4 +7,5 @@ created: 1638197512861
 ---
 
 
+
 - might be a subClass of Activity, i.e., mental activity

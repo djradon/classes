@@ -7,4 +7,5 @@ created: 1633587313133
 ---
 
 
+
 a semantic web is better with classes
