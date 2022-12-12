@@ -10,5 +10,5 @@ created: 1637405791821
 
 - [[p.hasSense]]
   - predicates relating to written or spoken debate or investigation
-    - [[p.overlapsWith]] [[c.Pred.Communication]]
+    - [[p.overlapsWith]] [[pc.Communication]]
   - speak or write authoritatively about a topic

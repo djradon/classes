@@ -1,6 +1,6 @@
 ---
 id: IbLzJTjzkkIy2HwIVLvUu
-title: Activity Predicate
+title: Activity Predicates
 desc: ''
 updated: 1637955557281
 created: 1634932253364
@@ -10,7 +10,7 @@ created: 1634932253364
 
 Active words are useful for task management
 
-- [[p.subClassOf]] [[c.Pred]]
+- [[p.subClassOf]] [[pc]]
 
 ## thoughts
 
