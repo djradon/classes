@@ -6,6 +6,4 @@ updated: 1637968860648
 created: 1637949994590
 ---
 
-
-
-things you'd want to do in, say, [[game.Odyssey]]
+things you'd want to do while role-playing a character in, say, [[shapow]] or [[game.dungeons-and-dragons]]
