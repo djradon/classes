@@ -2,7 +2,7 @@
 id: cjm1i6eldxwugxs6vmcbjml
 title: Predicate Classes
 desc: ''
-updated: 1670804465072
+updated: 1670936954622
 created: 1670804465072
 ---
 
