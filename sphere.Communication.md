@@ -8,7 +8,7 @@ created: 1637665938098
 
 
 
-- [[p.similarTo]] [[pc.Discursive]]
+- [[p.similarTo]] [[sphere.Discursive]]
 
 ## [[p.hasRelatedResource]]
 
