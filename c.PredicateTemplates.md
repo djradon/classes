@@ -1,8 +1,8 @@
 ---
 id: cjm1i6eldxwugxs6vmcbjml
-title: Predicate Classes
+title: PredicateTemplates
 desc: ''
-updated: 1670936954622
+updated: 1671341293563
 created: 1670804465072
 ---
 
