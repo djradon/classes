@@ -1,8 +1,8 @@
 ---
 id: DzQ0jlI7oSG0km2aeSfq3
-title: UseCase
+title: Use Cases
 desc: situations where a piece of software may be useful
-updated: 1635765880241
+updated: 1674590649613
 created: 1635662811224
 ---
 
