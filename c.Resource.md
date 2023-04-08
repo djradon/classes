@@ -6,11 +6,7 @@ updated: 1671641825554
 created: 1633589594499
 ---
 
-
-
-comparable to RDF's universal class
-- ? but maybe only for addressable stuff
-
+- I've ended up using this as "something that a resourceful person might find useful"
 
 ## [[p.isRelated]]
 

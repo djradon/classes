@@ -7,4 +7,4 @@ created: 1662753896195
 ---
 
 - [[p.subClassOf]] [[c.GameFramework]]
-- [[p.hasRelatedResource]] https://www.ifwiki.org/index.php?title=Engine_List
+- [[c.Resource]] https://www.ifwiki.org/index.php?title=Engine_List
