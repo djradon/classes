@@ -1,8 +1,8 @@
 ---
 id: 1g9BGVyEfDyAfALKTXc79
-title: DigitalGarden
+title: Digital Garden
 desc: ''
-updated: 1645900016406
+updated: 1685983541194
 created: 1634424038252
 ---
 
