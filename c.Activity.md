@@ -1,11 +1,26 @@
 ---
 id: cps9ergekccljpmmxjyy7p9
 title: Activity
-desc: 'things something did (or can do?)'
-updated: 1671633937433
+desc: things something did (or can do?)
+updated: 1688396332655
 created: 1671633922207
 ---
+
+[[p.equivalentPredicate]] 
+: [[p.did]]
 
 - almost unnecessary, I've been using bullet points as an uncategorized default for activity logging
   - BUT, if you started a new category of stuff, you need a way to re-declare activity items.
 - something you can do is either a plan, or not worth mentioning
+
+
+[[c.TimePeriod]]
+
+## [[c.Specification]]
+
+[[c.Domain]] 
+: [[c.Actor]]
+: [[c.Project]]
+
+  - only an actor can undertake activity, but things can be said to have activity that contain actors, like products, places; 
+    - I guess mechanical devices are actors; for that matter, the sun could be an actor even though you wouldn't really call it a device
