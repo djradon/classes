@@ -6,5 +6,5 @@ updated: 1662755589602
 created: 1662753896195
 ---
 
-- [[p.subClassOf]] [[c.GameFramework]]
+- [[p.subClassOf]] [[c.Software.Game-Framework]]
 - [[c.Resource]] https://www.ifwiki.org/index.php?title=Engine_List
