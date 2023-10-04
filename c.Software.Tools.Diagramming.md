@@ -2,7 +2,7 @@
 id: hripgkq2hl94xq75kt1j3z9
 title: Diagramming
 desc: ''
-updated: 1694715359277
+updated: 1696446767235
 created: 1685938340067
 ---
 
@@ -14,6 +14,7 @@ created: 1685938340067
 - [[prdct.structurizr]]
 - [[prdct.d2.studio]]
 - [[prdct.graphviz]]
+- [[EventCatalog|prdct.event-catalog]]
 
 ## [[c.Comparison]]
 
