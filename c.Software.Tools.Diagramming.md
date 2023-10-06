@@ -2,19 +2,25 @@
 id: hripgkq2hl94xq75kt1j3z9
 title: Diagramming
 desc: ''
-updated: 1696446767235
+updated: 1696569765172
 created: 1685938340067
 ---
 
-## [[c.Solution]]
+## 
 
-- [[prdct.diagrams]]
+## [[c.Implementation]]
+
+- [[prdct.diagrams.mingrammer]]
 - [[prdct.kroki]]
 - [[prdct.ilograph]]
 - [[prdct.structurizr]]
 - [[prdct.d2.studio]]
 - [[prdct.graphviz]]
 - [[EventCatalog|prdct.event-catalog]]
+
+## [[c.Implementation.favorite]]
+
+- [[prdct.flowchart-js]] /  [[prdct.js-sequence-diagrams]] / [[prdct.d3-graphviz]]
 
 ## [[c.Comparison]]
 
