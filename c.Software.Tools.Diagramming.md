@@ -6,8 +6,6 @@ updated: 1696569765172
 created: 1685938340067
 ---
 
-## 
-
 ## [[c.Implementation]]
 
 - [[prdct.diagrams.mingrammer]]
@@ -16,7 +14,7 @@ created: 1685938340067
 - [[prdct.structurizr]]
 - [[prdct.d2.studio]]
 - [[prdct.graphviz]]
-- [[EventCatalog|prdct.event-catalog]]
+- [ ] [[prdct.event-catalog]]
 
 ## [[c.Implementation.favorite]]
 
