@@ -2,7 +2,7 @@
 id: hebnxszdzrdyzzzyn5vy32b
 title: Startup Formation
 desc: ''
-updated: 1696092000682
+updated: 1697395720908
 created: 1696091814582
 ---
 
