@@ -1,7 +1,7 @@
 ---
 id: mscslvjq27elhmyh8e7bdgs
-title: gacha
-desc: 'toy vending machine mechanic'
+title: Gacha
+desc: toy vending machine mechanic
 updated: 1696957456531
 created: 1696957409004
 ---
