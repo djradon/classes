@@ -2,7 +2,7 @@
 id: bab3cxbsj87osymzr1kgxuq
 title: Metroidvania
 desc: 'sub-genre of action-adventure games and/or platformers focused on guided non-linearity and utility-gated exploration and progression'
-updated: 1697567207039
+updated: 1698262518357
 created: 1696816054489
 ---
 
@@ -16,6 +16,6 @@ created: 1696816054489
 - careful design of levels and character controls to encourage exploration and experimentation
 - a means for the player to become more invested in their player character through role-playing game elements
 
-## [[c.Reference]]
+## References
 
 - https://platformadventure.weebly.com/

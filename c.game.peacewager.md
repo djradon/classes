@@ -2,11 +2,11 @@
 id: h9sksddkna4b2folt763nqz
 title: Peacewager
 desc: ''
-updated: 1696810567925
+updated: 1698262518355
 created: 1696810262671
 ---
 
-## [[c.Reference]]
+## References
 
 - https://www.lesswrong.com/posts/bF353RHmuzFQcsokF/peacewagers-cohabitive-games-so-far
 - https://www.lesswrong.com/posts/RNbcJedHf4jmZ9GHq/the-point-of-a-game-is-not-to-win-and-you-shouldn-t-even
