@@ -2,13 +2,13 @@
 id: Oo8aTwi9pleJGCwe0hvG7
 title: Topic
 desc: ''
-updated: 1634926406184
+updated: 1698262670382
 created: 1634926244540
 ---
 
 
 
-## [[c.Resource]]
+## Resources
 
 - ![[daily.journal.2021.09.13#concept-vs-topic,1:#*]]
 - 

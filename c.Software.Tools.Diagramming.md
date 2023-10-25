@@ -6,7 +6,7 @@ updated: 1696569765172
 created: 1685938340067
 ---
 
-## [[c.Implementation]]
+## Implementations
 
 - [[prdct.diagrams.mingrammer]]
 - [[prdct.kroki]]
@@ -20,7 +20,7 @@ created: 1685938340067
 
 - [[prdct.flowchart-js]] /  [[prdct.js-sequence-diagrams]] / [[prdct.d3-graphviz]]
 
-## [[c.Comparison]]
+## Comparison
 
 - https://text-to-diagram.com/
   - [[p.supports]] [[prdct.webviz]] [[prdct.C4-PlantUML]]  [[prdct.mermaid]] [[prdct.d2]]

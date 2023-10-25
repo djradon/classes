@@ -6,6 +6,6 @@ updated: 1688056097499
 created: 1688056087029
 ---
 
-## [[c.Comparison]]
+## Comparison
 
 - https://www.btw.so/open-source-alternatives/auth0-alternatives

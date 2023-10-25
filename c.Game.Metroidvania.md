@@ -9,7 +9,7 @@ created: 1696816054489
 - #aka Platform Adventure
 
 
-## [[c.Attribute]]
+## Attributes
 
 - large interconnected world map the player can explore, although parts of the world will be inaccessible to the player until they acquire special items, tools, weapons, abilities, or knowledge within the game
 - tighter integration of story and level design

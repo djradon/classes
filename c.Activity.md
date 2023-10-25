@@ -16,7 +16,7 @@ created: 1671633922207
 
 [[c.TimePeriod]]
 
-## [[c.Specification]]
+## Specifications
 
 [[c.Domain]] 
 : [[c.Actor]]
