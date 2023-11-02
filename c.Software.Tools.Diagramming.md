@@ -23,7 +23,7 @@ created: 1685938340067
 ## Comparison
 
 - https://text-to-diagram.com/
-  - [[p.supports]] [[prdct.webviz]] [[prdct.C4-PlantUML]]  [[prdct.mermaid]] [[prdct.d2]]
+  - [[p.supports]] [[prdct.webviz]] [[prdct.c4-plantuml]]  [[prdct.mermaid]] [[prdct.d2]]
 - [[vs.structurizr-vs-d2]]
 - https://icepanel.medium.com/top-7-diagrams-as-code-tools-for-software-architecture-1a9dd0df1815
 
