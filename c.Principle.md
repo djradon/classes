@@ -6,4 +6,4 @@ updated: 1668754346336
 created: 1668754308898
 ---
 
-[[p.subClassOf]] [[c.Concept]]
+[[p.subClassOf]] [[c.concept]]

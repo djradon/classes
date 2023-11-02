@@ -6,7 +6,7 @@ updated: 1696943737207
 created: 1672226031632
 ---
 
-## [[c.Resource.List]]
+## [[c.resource.list]]
 
 - https://www.incredibuild.com/blog/top-gaming-engines-you-should-consider
 - 

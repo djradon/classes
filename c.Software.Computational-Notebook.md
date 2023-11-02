@@ -12,6 +12,6 @@ created: 1694194711691
   - https://martinfowler.com/bliki/ComputationalNotebook.html
 ## Resources
 
-### [[c.Resource.List]]
+### [[c.resource.list]]
 
 - https://geekflare.com/best-data-science-notebooks/

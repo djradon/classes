@@ -8,4 +8,4 @@ created: 1638051487811
 
 
 
-- [[p.subClassOf]] [[c.Solution]] [[t.km.kos]]
+- [[p.subClassOf]] [[c.solution]] [[t.km.kos]]

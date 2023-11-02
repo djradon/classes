@@ -6,4 +6,4 @@ updated: 1671707793501
 created: 1671707741358
 ---
 
-- [[p.subClassOf]] [[c.Actor]]
+- [[p.subClassOf]] [[c.actor]]

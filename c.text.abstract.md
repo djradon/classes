@@ -6,4 +6,4 @@ updated: 1695490017921
 created: 1680306213376
 ---
 
-- [[p.similarTo]] [[c.Summary]]
+- [[p.similarTo]] [[c.summary]]

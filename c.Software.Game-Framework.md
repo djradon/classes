@@ -6,4 +6,4 @@ updated: 1696530515548
 created: 1662752304660
 ---
 
-  - [[p.similarTo]] [[c.Software.Game-Platform]]
+  - [[p.similarTo]] [[c.software.game-platform]]

@@ -6,6 +6,6 @@ updated: 1696528409125
 created: 1672343562294
 ---
 
-## [[c.List.Implementations]]
+## [[c.list.implementations]]
 
 - https://www.alchemy.com/alternatives/ethereal-engine

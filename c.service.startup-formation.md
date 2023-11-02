@@ -9,4 +9,4 @@ created: 1696091814582
 ## Resources
 
 - https://jonathanmillspatrick.com/the-best-companies-for-startup-formation/
-  - [[c.Mention]] [[prdct.gust]] [[prdct.angel-list-stack]] [[prdct.clerky]]
+  - [[c.mention]] [[prdct.gust]] [[prdct.angel-list-stack]] [[prdct.clerky]]

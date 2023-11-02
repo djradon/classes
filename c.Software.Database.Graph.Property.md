@@ -6,6 +6,6 @@ updated: 1696480472594
 created: 1696477206467
 ---
 
-## [[c.List.Implementations]]
+## [[c.list.implementations]]
 
 - https://tinkerpop.apache.org/providers.html

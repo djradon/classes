@@ -6,6 +6,6 @@ updated: 1696480686059
 created: 1693699975396
 ---
 
-## [[c.List.Implementations]]
+## [[c.list.implementations]]
 
 - https://indiaai.gov.in/article/eight-interesting-open-source-graph-databases

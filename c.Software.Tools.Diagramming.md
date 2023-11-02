@@ -16,7 +16,7 @@ created: 1685938340067
 - [[prdct.graphviz]]
 - [ ] [[prdct.event-catalog]]
 
-## [[c.Implementation.favorite]]
+## [[c.implementation.favorite]]
 
 - [[prdct.flowchart-js]] /  [[prdct.js-sequence-diagrams]] / [[prdct.d3-graphviz]]
 
@@ -28,7 +28,7 @@ created: 1685938340067
 - https://icepanel.medium.com/top-7-diagrams-as-code-tools-for-software-architecture-1a9dd0df1815
 
 
-## [[c.Resource.List]]
+## [[c.resource.list]]
 
 - https://modeling-languages.com/text-uml-tools-complete-list/
 - https://icepanel.medium.com/top-7-diagrams-as-code-tools-for-software-architecture-1a9dd0df1815

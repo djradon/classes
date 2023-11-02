@@ -8,4 +8,4 @@ created: 1635369518318
 
 
 
-- [[p.subClassOf]] [[c.Encounter]]
+- [[p.subClassOf]] [[c.encounter]]

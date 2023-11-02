@@ -14,13 +14,13 @@ created: 1671633922207
 - something you can do is either a plan, or not worth mentioning
 
 
-[[c.TimePeriod]]
+[[c.timeperiod]]
 
 ## Specifications
 
-[[c.Domain]] 
-: [[c.Actor]]
-: [[c.Project]]
+[[c.domain]] 
+: [[c.actor]]
+: [[c.project]]
 
   - only an actor can undertake activity, but things can be said to have activity that contain actors, like products, places; 
     - I guess mechanical devices are actors; for that matter, the sun could be an actor even though you wouldn't really call it a device

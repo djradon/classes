@@ -8,4 +8,4 @@ created: 1638128828337
 
 
 
-- [[p.subClassOf]] [[c.Solution]]
+- [[p.subClassOf]] [[c.solution]]

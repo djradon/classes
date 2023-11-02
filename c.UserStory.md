@@ -8,9 +8,9 @@ created: 1634651528838
 
 
 
-Captures aspects of an actual or imagined [[c.Feature]], [[c.Capability]], [[c.Solution]], [[c.Problem]] or [[c.Opportunity]] from a user's perspective.
+Captures aspects of an actual or imagined [[c.feature]], [[c.capability]], [[c.solution]], [[c.problem]] or [[c.opportunity]] from a user's perspective.
 
-- [[p.subClassOf]] [[c.Class]]
+- [[p.subClassOf]] [[c.class]]
 - [[p.hasTheme]] [[t.pdm]] 
 - [[p.correspondsTo]] [[User Stories|t.pdm.user-stories]]
 

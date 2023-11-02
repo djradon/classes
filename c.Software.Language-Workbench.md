@@ -6,7 +6,7 @@ updated: 1694817544988
 created: 1694020693411
 ---
 
-## [[c.Resource.List]]
+## [[c.resource.list]]
 
 - http://dsl-course.org/language-workbenches/
 - https://homepages.cwi.nl/~storm/publications/lwc13paper.pdf

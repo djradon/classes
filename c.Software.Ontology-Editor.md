@@ -6,6 +6,6 @@ updated: 1696272654834
 created: 1696272639345
 ---
 
-## [[c.Resource.List]]
+## [[c.resource.list]]
 
 - https://www.w3.org/wiki/Ontology_editors
