@@ -2,7 +2,7 @@
 id: cps9ergekccljpmmxjyy7p9
 title: Activity
 desc: things something did (or can do?)
-updated: 1688396332655
+updated: 1700952213018
 created: 1671633922207
 ---
 
@@ -18,7 +18,7 @@ created: 1671633922207
 
 ## Specifications
 
-[[c.domain]] 
+[[c.domain]]
 : [[c.actor]]
 : [[c.project]]
 
