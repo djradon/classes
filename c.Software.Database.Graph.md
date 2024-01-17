@@ -6,7 +6,10 @@ updated: 1701421449701
 created: 1693699975396
 ---
 
+
 ## [[c.list.implementations]]
 
 - https://indiaai.gov.in/article/eight-interesting-open-source-graph-databases
 - https://www.bloorresearch.com/technology/graph-databases/
+
+## Cons
