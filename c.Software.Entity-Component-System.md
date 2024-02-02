@@ -1,8 +1,7 @@
 ---
-id: oqxahy9x5gpxz2o1pg6frpd
-title: Entity-Component-System
+id: uvwi5izihjfbh2u2zwcvd49
+title: Entity Component System
 desc: ''
-updated: 1706676443126
-created: 1696016583274
+updated: 1706893649169
+created: 1706893649169
 ---
-g
