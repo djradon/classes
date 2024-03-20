@@ -1,8 +1,8 @@
 ---
 id: aibtsf1xzaqxtjk4pkylkuf
-title: Site Generator
+title: Semantic Site Generator
 desc: ''
-updated: 1710782379138
+updated: 1710948023265
 created: 1710782379138
 ---
 
