@@ -13,3 +13,8 @@ created: 1693699975396
 - https://www.bloorresearch.com/technology/graph-databases/
 
 ## Cons
+
+
+## References
+
+- https://www.c-sharpcorner.com/article/what-is-a-graph-database/
