@@ -2,13 +2,13 @@
 id: hripgkq2hl94xq75kt1j3z9
 title: Diagramming
 desc: ''
-updated: 1696569765172
+updated: 1714585254456
 created: 1685938340067
 ---
 
 ## Implementations
 
-- [[prdct.diagrams.mingrammer]]
+- [[prdct.mingrammer-diagrams]]
 - [[prdct.kroki]]
 - [[prdct.ilograph]]
 - [[prdct.structurizr]]
