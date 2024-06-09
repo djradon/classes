@@ -1,14 +1,16 @@
 ---
 id: 5t1rd98zp1xb8l4qyjqip12
 title: Fictional
-desc: 'fictional antirealists dont think fictional things exist'
-updated: 1709244304714
+desc: fictional antirealists dont think fictional things exist
+updated: 1717892177072
 created: 1709238992476
 ---
+
 
 ## Thoughts
 
 - maybe it's that "the idea of Gunaar" exists
+  - t.2024.06.08.17 i.e., the character Gunaar is abstract
 
 ## Issues and Arguments
 
