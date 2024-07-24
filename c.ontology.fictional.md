@@ -2,7 +2,7 @@
 id: 5t1rd98zp1xb8l4qyjqip12
 title: Fictional
 desc: fictional antirealists dont think fictional things exist
-updated: 1717892177072
+updated: 1721790659139
 created: 1709238992476
 ---
 
@@ -11,6 +11,7 @@ created: 1709238992476
 
 - maybe it's that "the idea of Gunaar" exists
   - t.2024.06.08.17 i.e., the character Gunaar is abstract
+    - t.2024.07.23.19 except it has a time, like conception time
 
 ## Issues and Arguments
 
@@ -23,3 +24,4 @@ created: 1709238992476
 
 - https://plato.stanford.edu/entries/fictional-entities/
 - https://plato.stanford.edu/entries/fiction/#SpeeActAcco
+[[ar.fictional-realism-and-commonsense-ontology]]
