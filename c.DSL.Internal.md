@@ -1,8 +1,8 @@
 ---
 id: 2r22cgzij4kmkum94eizxq6
-title: Internal
+title: Internal DSL
 desc: ''
-updated: 1694213996619
+updated: 1725394100089
 created: 1694213907498
 ---
 
